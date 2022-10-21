@@ -6,6 +6,7 @@ require (
 	github.com/Masterminds/semver v1.5.0
 	github.com/Masterminds/vcs v1.13.3
 	github.com/armon/go-radix v1.0.0
+	github.com/blcksec/go-bindata v3.0.7+incompatible // indirect
 	github.com/boltdb/bolt v1.3.1
 	github.com/caarlos0/spin v1.1.0
 	github.com/fatih/color v1.13.0 // indirect
